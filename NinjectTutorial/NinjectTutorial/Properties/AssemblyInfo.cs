@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Test.Repo")]
+[assembly: AssemblyTitle("NinjectTutorial")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Test.Repo")]
+[assembly: AssemblyProduct("NinjectTutorial")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e34b27a0-46c7-49b7-baa0-2d70848dc5c0")]
+[assembly: Guid("64bf8dc2-45fe-4fb8-86a1-7c0a753670a2")]
 
 // Version information for an assembly consists of the following four values:
 //
